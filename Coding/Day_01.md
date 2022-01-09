@@ -5,7 +5,9 @@
 - [Similar problem](https://leetcode.com/problems/excel-sheet-column-number/)			
 
 ### Problem #2
-Identify the problem statement from the below code and add comments to make the same readable and add test scenarios.
+- Identify the problem statement from the below code
+- Add comments to make the code more readable
+- Add test scenarios.
 ```
 public boolean isValidInput(String input)
 	{
