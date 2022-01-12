@@ -1,0 +1,41 @@
+	public static void main(String[] args) throws InterruptedException {
+		WebDriver driver = new ChromeDriver();
+		driver.get("https://generic-ui.com/demo");
+		driver.manage().window().maximize();
+		
+		//Clicking on the dropdown to select number of rows
+		driver.findElement(By.xpath("//div[@class='gui-select-container']")).click();
+		Thread.sleep(2000);
+		
+		//Selecting row count as 100
+		driver.findElement(By.xpath("//div[normalize-space()='100 Rows']")).click();
+		
+		//Executing javascript command to get the size of the grid
+		String gridSizeCommand = "var grid = document.getElementById(\"gui-grid-1\");"+
+		                  "return grid.__ngContext__[46].length;";
+		JavascriptExecutor js = (JavascriptExecutor)driver;
+		Object result = js.executeScript(gridSizeCommand);
+		System.out.println("No of records selected = " + result);
+		
+		//Executing javascript command to get the data from grid
+		List<Map<String, String>> data = 
+                new ArrayList<Map<String, String>>();
+		String gridValueCommand = "var grid = document.getElementById(\"gui-grid-1\");"+
+                "return grid.__ngContext__[46];";
+		data = (List<Map<String, String>>) js.executeScript(gridValueCommand);
+		
+		System.out.println("Size of grid = " + data.size());
+		for(Map<String,String> ele: data)
+		{
+			String status = ele.get("status");
+			if(status.equals("Active"))
+			{
+				String projectName = ele.get("name");
+				String projectId = ele.get("id");
+				String projectProgress = String.valueOf(ele.get("progress"));
+				System.out.println("Project Status = " + status + " and Project name = " + projectName + " and projectId = " + projectId + " and progress = " + projectProgress);
+			}
+		}
+		
+		driver.quit();
+	}
