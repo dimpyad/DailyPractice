@@ -37,6 +37,17 @@ Return an integer denoting the count of coins you collected.
 3
 
 ## Problem 2
+### Topic: Arrays and String
+### Difficulty Level: Easy
 Write a function that converts HEX string to RGB string and write another fucntion to convert RGB string to HEX string. 
 Note. You are not supposed to use any built in libraries.
 
+### Sample Input string hex to rgb
+f4e3d8
+### Sample output string
+RGB(244, 227, 216)
+
+### Sample input RGB to hex
+[231, 55, 145]
+### Sample output RGB to hex
+E73791
