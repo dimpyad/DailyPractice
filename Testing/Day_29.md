@@ -19,3 +19,5 @@ As part of this activity perform the following:
 4) Come up with Testing approach (diagram/mindmap)
 5) Come up with Automation strategy
 6) Come up with draft Release planning
+
+Note: You can use any plantform like Udemy for this exercise.
