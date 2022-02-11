@@ -1,0 +1,2 @@
+# Weekly Plans
+Daily practice problems will be from a weekly plan. This folder will have weekwise plans mostly published end of week and reader can expect questions from this plan only in the next week daily challenges.
