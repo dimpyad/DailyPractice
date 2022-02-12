@@ -4,7 +4,7 @@
 - Finding/removing duplicates from string, array, stack and Queue
 
 ### Web Automation
-- Composite Design Pattern for maininging page locators in web automation framework.  
+- Composite Design Pattern for managing page locators in web automation framework.  
 
 ### API Automation
 - Data driven testing with faker lib
