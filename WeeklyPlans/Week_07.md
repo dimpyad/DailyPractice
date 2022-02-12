@@ -1,7 +1,7 @@
 ## Plan for week 07 ##
 
 ### Coding
-- Finding/removing duplicates from string, array, stack and Queue
+- Finding/removing duplicates from string, array, linkedlist, stack and Queue
 
 ### Web Automation
 - Composite Design Pattern for managing page locators in web automation framework.  
