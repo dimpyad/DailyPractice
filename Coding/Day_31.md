@@ -37,7 +37,7 @@ Example:
 Input: s = "abbaca"
 Output: "ca"
 
-### Problem 7
+### Problem #7
 Remove Duplicate Brackets from an string expression. 
 
 Example:
