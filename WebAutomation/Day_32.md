@@ -8,4 +8,5 @@ Steps to follow:
 Resources:
 
 Video - Composite design pattern theory - https://www.youtube.com/watch?v=mp5lwolO-wM
+
 Blog - https://www.automatetheplanet.com/composite-design-pattern/
