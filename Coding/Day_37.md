@@ -1,4 +1,6 @@
-## Problem Statements
+## Learning Goal
+Linear and Binary search
+
 ### Problem #1
 Write a program to find Smallest and second smallest element in an Array.
 
