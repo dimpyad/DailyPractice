@@ -12,9 +12,11 @@ SQLServer - If you are using SQL server, you can import AdventureWorks sample da
 https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
 MySQL - If you are using MySQL, here is the link to download sample database https://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampledatabase.zip
+
 More details can be found here - https://www.mysqltutorial.org/mysql-sample-database.aspx
 
 Oracle - https://www.oracletutorial.com/wp-content/uploads/2019/01/oracle-sample-database.zip
+
 More details can be found here - https://www.oracletutorial.com/getting-started/oracle-sample-database/
 
 ### Note:
