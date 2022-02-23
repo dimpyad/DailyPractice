@@ -13,7 +13,7 @@
 - Import and Export 
 
 ### Testing
-- Classification Tree design
+- Classification Tree Test Design
 
 ### Behavioral
 - Time management
