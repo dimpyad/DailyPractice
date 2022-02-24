@@ -1,5 +1,5 @@
 ## Learning Goal
-- Exploring GraphQL
+Explore GraphQL
 
 ### Problem Statement
 URL to be used https://graphqlzero.almansi.me/api
