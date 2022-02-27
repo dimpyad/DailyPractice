@@ -1,3 +1,6 @@
+## Learning Goal
+Printing patterns using code.
+
 ### Problem #1
 Write a Program to print the following pyramid star pattern.
 ```
@@ -58,9 +61,9 @@ Floyd’s triangle, named after Robert Floyd, is a right angled triangle which i
 In the Floyd’s triangle, there are n integers in the nth row and total of (n(n+1))/2 integer in the rows.  
 ```
 1                                                                                                                          
-2 3                                                                                                                        
-4 5 6                                                                                                                      
-7 8 9 10                                                                                                                   
+2  3                                                                                                                        
+4  5  6                                                                                                                      
+7  8  9 10                                                                                                                   
 11 12 13 14 15
 ```
 ### Problem #7
