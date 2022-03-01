@@ -1,7 +1,7 @@
 ## Leanring Goal
 SQL Joins
 
-### Prerequisite
+### Problem statement #1
 You have following two tables:
 ```
 CREATE TABLE `advisors` (
@@ -51,19 +51,16 @@ SELECT * FROM advisors;
 4 rows in set (0.00 sec)
 
 ```
-### Problem statement #1
-Pull all the information on students and their advisors, including students who are not assigned to an advisor.
-#### Hint - Inner Join
+1. Pull all the information on students and their advisors, including students who are not assigned to an advisor.
+Hint - Inner Join
+
+2. Pull all the information on students and their advisors, including students who are not assigned to an advisor.
+Hint - Left Join
+
+3. Pull all the students who are assigned to advisors, plus a list of advisors not assigned to students 
+Hint - Right Join
 
 ### Problem statement #2
-Pull all the information on students and their advisors, including students who are not assigned to an advisor.
-#### Hint - Left Join
-
-### Problem statement #3
-Pull all the students who are assigned to advisors, plus a list of advisors not assigned to students 
-#### Hint - Right Join
-
-### Problem statement #4
 A small bakery that sells brownies, cookies, pies, and other delicious treats to customers online. It keeps records of all of its online sales in an SQL database that is automatically populated as customers place orders on its site.
 
 In the database, it has a customers table to keep track of customer contact information, and an orders table to keep track of various orders that those customers have placed. The schema of these tables is as follows:
