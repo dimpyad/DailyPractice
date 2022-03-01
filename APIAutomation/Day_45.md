@@ -1,8 +1,8 @@
 ## Learning Goal
-Validate different Json responses with dynamic or optional data.
+Validate different Json responses with dynamic or optional fields.
 
 ### Problem Statement #1
-Validate the following two responses when field email is optional.
+Validate response schema with optional field. For example the following two responses email field is optional.
 
 Response 1:
 ```
@@ -24,7 +24,7 @@ Response 2:
 }
 ```
 ### Problem Statement #2
-Validate the following two responses when field state is optional in the nested json with key address.
+Validate response schema when nested json has optional field. For example the following scenario, state field under address is optional.
 
 Response 1:
 ```
@@ -54,7 +54,7 @@ Response 2:
 }
 ```
 ### Problem Statement #3
-Validate the following two responses when the value of a field is dynamic for example id is dynamic and unique every time and should be an positive number.
+Validate responses when the value of a field is dynamic. For example id is dynamic and unique every time and should be a positive number.
 
 Response 1:
 ```
