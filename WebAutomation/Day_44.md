@@ -2,7 +2,7 @@
 Web Scraping
 
 ### Problem Statement
-You need to scrape information related a specific job posts from the website https://realpython.github.io/fake-jobs/ and create a consolidated report.
+You need to scrape information related to specific job posts from the website https://realpython.github.io/fake-jobs/ and create a consolidated report.
 
 Steps to follow:
 1) Open the website https://realpython.github.io/fake-jobs/
