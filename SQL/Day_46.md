@@ -84,6 +84,6 @@ CREATE TABLE orders (
 	FOREIGN KEY (customer_id) REFERENCES customers (customer_id)
 );
 ```
-It's the end of 2016, and the owner of the bakery wants to write an SQL query that finds the COUNT of orders placed in 2016 by customer e-mail address. She wants to ORDER the results by the COUNT of orders placed in 2016, descending, so that she can personally send thank-you e-mails to Cocoa Confection's top customers by order volume.
+It's the end of 2016, and the owner of the bakery wants to write an SQL query that finds the COUNT of orders placed in 2016 by customer e-mail address. She wants to ORDER the results by the COUNT of orders placed in 2016, descending, so that she can personally send thank-you e-mails to top customers by order volume.
 
 Can you write a query that will help the owner of the bakery to find the COUNT of all orders placed in 2016, by customer e-mail address, sorted descending?
