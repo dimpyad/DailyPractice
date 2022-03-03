@@ -51,10 +51,10 @@ SELECT * FROM advisors;
 4 rows in set (0.00 sec)
 
 ```
-1. Pull all the information on students and their advisors, including students who are not assigned to an advisor.
+1. Pull all the information on students and their advisors, excluding the students who are not assigned to an advisor.
 Hint - Inner Join
 
-2. Pull all the information on students and their advisors, excluding students who are not assigned to an advisor.
+2. Pull all the information on students and their advisors, including the students who are not assigned to an advisor.
 Hint - Left Join
 
 3. Pull all the students who are assigned to advisors, plus a list of advisors not assigned to students 
