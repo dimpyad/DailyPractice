@@ -1,4 +1,4 @@
-## Plan for week 08 ##
+## Plan for week 09 ##
 
 ### Coding
 - Pattern Printing
