@@ -17,4 +17,4 @@ You need to design a web UI automation script which can be executed using cloud 
 - Any service provider of your choice.
 
 ### Hint
-You can use DesiredCapabilities capabilities based on the browser/cloud service provider selected by the user for execution.
+You can use DesiredCapabilities based on the browser/cloud service provider selected by the user for execution.
