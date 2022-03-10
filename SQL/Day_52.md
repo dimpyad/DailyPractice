@@ -43,7 +43,7 @@ Table request_accepted holds the date of friend acceptance, while requester_id a
 | 2            | 3           | 2016-06-08 |
 | 3            | 4           | 2016-06-09 |
 
-Write a query to find the the people who has most friends and the most friends number. For the sample data above, the result is:
+Write a query to find the the people who has most friends and the number of friends. For the sample data above, the result is:
 
 | id | num |
 |----|-----|
