@@ -9,7 +9,9 @@ You need to add a report generator component to your web automation framework wh
 - Verify that Make My Trip title is displayed.
 
 ### Configuration options
-Report_Framework_Name = supported value - Default or Extend_Report or Allure_Report
+Report_Framework_Name = supported values - Default or Extend_Report or Allure_Report
+
+Note: Detault report means the report generates by the unit test framework used. For example TestNG default report.
 
 ### Hints
 - Use oops concepts to build the reporting module.
