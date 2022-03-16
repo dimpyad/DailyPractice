@@ -10,5 +10,6 @@ Pojo classes in API testing framework
 ### Problem Statement
 You need to create an utility in your API testing framework which will help you to autogenerate the pojo classes.
 
-Input to the utility - Sample json reponses
-Output from the utility - each json input file should be converted into pojo class.
+Input to the utility - Folder path to sample json request/response files
+
+Output from the utility - Each json input file should be converted into a pojo class under outputpojo folder.
