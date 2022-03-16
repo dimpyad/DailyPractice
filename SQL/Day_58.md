@@ -1,6 +1,10 @@
 ## Learning Goal
 Wildcard and special operators
 
+## References
+- https://www.w3schools.com/sql/sql_like.asp
+- https://www.w3schools.com/sql/sql_wildcards.asp
+
 ### Problem Statement #1 (LIKE operator and % wildcard)
 Write a query to retrieve the prod_id and prod_name fields from a table named Products if the prod_name contains the string 'bean bag'. 
 
