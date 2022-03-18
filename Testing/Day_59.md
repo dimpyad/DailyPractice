@@ -4,7 +4,7 @@ System modelling
 ### Problem statement
 You are responsible for testing the product Eclipse IDE for java developer. Create a system model which will help you to define the following:
 - System bounday
-- System subcomponents (sub components of Eclipse IDE) and interdependencies
+- System subcomponents (sub components of Eclipse IDE like Editing, Debugging, Running etc) and interdependencies
 - Key user flows
 - Integration points
 - High/Medium/Low priority features under each subcomponent
