@@ -2,7 +2,7 @@
 Communication
 
 ### Problem statement #1
-You are leading a diverse team located in say 3 different locations in the world. For simplicity lets assume the following:
+You are leading a diverse team located in different locations in the world. For simplicity lets assume the following:
 - Team A - Location 1 
 - Team B - Location 2
 - Team C - Location 3
