@@ -10,10 +10,10 @@
 - Http Status codes
 
 ### SQL
-- View
+- Views
 
 ### Testing
-- System modelling
+- Test review
 
 ### Behavioral
 - Teamwork
