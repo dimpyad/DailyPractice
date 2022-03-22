@@ -16,7 +16,7 @@ Run tests on container
 - Setting up Docker (https://docs.docker.com/engine/install/)
 - Pull the docker image (docker pull selenium/standalone-chrome)
 - Run the Selenium Webdriver Docker container
-- Create a simple selenium tests using Remote web driver and connect to the server (http://localhost:4444) running in the container.
+- Create a simple selenium tests using Remote web driver and connect to the server running in the container.
 
 ### Additional Steps
 - Extend the above program by running the same on firefox driver in a docker image.
