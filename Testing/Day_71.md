@@ -2,7 +2,7 @@
 Localization Testing
 
 ### Problem Statement
-You are testing the application https://www.amazon.in/ for ensuring localization for the supported country/laanguage combinations. Come up with an test plan considering the various aspects you are going to consider:
+You are testing the application https://www.amazon.in/ for ensuring localization for the supported country/language combinations. Come up with an test plan considering the various aspects you are going to consider:
 - Inscope/Outof scope
 - Levels and types of testing
 - Automation strategy
@@ -10,7 +10,7 @@ You are testing the application https://www.amazon.in/ for ensuring localization
 ### Hint
 You can consider including the following as part of your test plan:
 - Supported country/language selection
-- Lozalized payment
+- Localized payment
 - Localized content
 - Keyboard support
 - Date and time formats
