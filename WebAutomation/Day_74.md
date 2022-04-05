@@ -1,5 +1,5 @@
 ### Learning Goal
-Run tests on container - Create docker file for framework
+Run tests on container - run on CI environment
 
 ### Steps to automate
 1. Open any website on <chrome> browser
