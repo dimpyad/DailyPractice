@@ -1,5 +1,5 @@
 ## Learning Goal
-Testing a automation tool
+Testing an automation tool
 
 ### Problem Statement
 You are responsible for testing Selenium Webdriver's compatibility across different os/browser combinations. Come up with a testing strategy.
