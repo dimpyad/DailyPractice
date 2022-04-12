@@ -7,7 +7,7 @@ Run tests on container - Create docker file
 3. Execute the steps 1 and 2 parallelly on <firefix> browser 
 
 ### Problem statement
-- Add a docker file into your test code which will perform all the necessary things in side a docker container to run the selenium tests. The following dependencies should be installed in the docker container:
+- Add a docker file into your test framework which will perform all the necessary things in side a docker container to run the selenium tests. The following dependencies should be installed in the docker container:
   1. java
   2. maven
   3. Browser drivers
