@@ -6,14 +6,14 @@ Convert Rows to Columns in SQL
 ### Steps to follow
 1. Create a database
 2. create a table demo_table in the database.
-
+```
 CREATE TABLE demo_table(
 NAME varchar(30),
 COLLEGE varchar(30),
 EXAM_DATE DATE,
 SUBJECTS varchar(30),
 MARKS int); 
-
+```
 3. Insert data into the table
 4. Convert the rows into column.
 
