@@ -1,8 +1,11 @@
 ## Learning Goal
 Microservices Architecture Testing
 
-### You are responsible for testing an application which internally uses microservices architecture.
+### Problem Statement
+You are responsible for testing an application which internally uses microservices architecture.
+
 Source code - https://github.com/vmudigal/microservices-sample
+
 Architecture diagram - https://raw.githubusercontent.com/vmudigal/microservices-sample/version-5/documents/architecture/Infrastructure.png
 Given this information how are you going to perform testing on this application:
 
