@@ -7,7 +7,7 @@
 - Localization testing  
 
 ### API Automation
-- Two api results comparision.
+- Two api results comparison.
 
 ### SQL
 - Sub Query
