@@ -21,4 +21,4 @@ Describe your proudest accomplishment in career with example.
 - Confirm any strength you have.
 - Be honest and truthful.
 
-Example: In a project, there were so many repetitive and time consuming tasks which can be easily done using tools. You have suggested a good tool and process to be followed which helped the team to be more productive.Regression testing time has been reduced to <b> days from <a> days.
+Example: In a project, there were so many repetitive and time consuming tasks which can be easily done using tools. You have suggested a good tool and process to be followed which helped the team to be more productive.Regression testing time has been reduced to 2 days from 5 days.
