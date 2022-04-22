@@ -5,7 +5,7 @@ Greatest Accomplishment
 Describe your proudest accomplishment in career with example.
 
 ### Hints
-- Make a list of accomplishments in your mind examples:
+- Make a list of accomplishments in your mind for examples:
   1) Positive feedback from client/coworker/supervisor
   2) Initialitve from your side related process improvements
   3) Mentoring/helping others to achieve their goals
