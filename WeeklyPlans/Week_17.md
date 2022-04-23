@@ -16,4 +16,4 @@
 - IOT application Testing
 
 ### Behavioral
-- Leadership
+- Building professional relationships
