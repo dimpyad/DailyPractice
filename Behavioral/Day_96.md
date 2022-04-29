@@ -1,4 +1,5 @@
 ## Learning Goal
 Building professional relationships
 
-### problem statement
+### Problem statement
+Describe a time when you struggled to build a relationship with someone important at work. How did you eventually overcome that?
