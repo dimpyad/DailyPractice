@@ -11,3 +11,6 @@ You need to test if a kafka message published by a producer is received by two c
 4. Validate the consumer 1 received the message "Hello" from topic "TOPIC 1"
 5. Start consumer2 who is listening to same topic  "TOPIC 1"
 6. Validate the consumer 2 also received the message "Hello" published on topic "TOPIC 1"
+
+### Hints
+You can use any client like JAVA kafka client or framework like https://github.com/authorjapps/zerocode
