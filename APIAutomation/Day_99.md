@@ -1,6 +1,11 @@
 ## Learning Goal
 Testing simple kafka message
 
+### References
+- https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/
+- https://towardsdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way-4ceb00817d8b
+- https://docs.oracle.com/en-us/iaas/Content/Streaming/Tasks/streaming-kafka-java-client-quickstart.htm
+
 ### Problem statement
 You need to test if a kafka message published by a producer is received by two clients.
 
