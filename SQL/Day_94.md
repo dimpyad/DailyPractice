@@ -8,7 +8,9 @@ Table name:
 fb_comments_count
 
 user_id	- int
+
 created_at	- datetime
+
 number_of_comments	- int
 
 ### Hint
