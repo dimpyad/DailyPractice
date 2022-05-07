@@ -1,0 +1,18 @@
+Problem statement 1
+Write a SQL query to get the second highest salary from the Employee table (columns - id, salary).
+
+Solution
+SELECT * FROM employee 
+WHERE salary= (SELECT DISTINCT(salary) 
+FROM employee ORDER BY salary DESC LIMIT 1,1);
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+Problem statement 2
+Update the query to find the nth highest salary from the same table.
+
+Solution
+SELECT * FROM employee 
+WHERE salary= (SELECT DISTINCT(salary) 
+FROM employee ORDER BY salary DESC LIMIT n-1,1);
