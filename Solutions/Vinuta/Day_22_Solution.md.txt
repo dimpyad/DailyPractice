@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM (SELECT user_id, COUNT(event_date_time) AS counfOfImage FROM event_log GROUP BY user_id) AS tableOfImageUser WHERE counfOfImage > 1000 AND counfOfImage < 2000;
